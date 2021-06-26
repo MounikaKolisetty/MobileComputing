@@ -23,6 +23,10 @@ In this page we setup a helpline page where a victim in need can reach out for h
 ![image](https://user-images.githubusercontent.com/84661500/120297609-8d505800-c2c9-11eb-9a71-1558eeb2c8f4.png)
 
 The status of the tickets is defined as open, In-Progress, close and re-open. As soon as the ticket is created, the status is automatically assigned as open. If the status of the ticket is open for 15 minutes, then a rescuer will be automatically assigned to it and the status will be assigned as In-Progress. If a rescuer finishes their task by identifying the victim, he/she can close the ticket manually. By any chance is the same ticket is re-opened it will be automatically assigned to the rescuer who previously closed the ticket. 
+# User Interface
+Each assigned rescuer will be given with a username and password. After login with their respective credentials, rescuer get access to the information like details of victims, InProgress tickets (which are assigned to the respective rescuer who logged in) and Closed tickets - tickets resolved by rescuer who logged in (which can also be closed by admin).
+
+![image](https://user-images.githubusercontent.com/56874374/123513833-b7f6bc00-d68f-11eb-9e14-64d2a2336674.png)
 
 # Installation Guide
 
