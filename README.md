@@ -28,7 +28,7 @@ Each assigned rescuer will be given with a username and password. After login wi
 
 ![image](https://user-images.githubusercontent.com/56874374/123513857-dceb2f00-d68f-11eb-84b8-d79e4ccb29c6.png)
 
-Victim can create a ticket by clicking on the + button. It displays the following page (Figure 4) where victim should fill a form.
+Victim can create a ticket by clicking on the + button. It displays the following page where victim should fill a form.
 
 ![image](https://user-images.githubusercontent.com/56874374/123513874-fab89400-d68f-11eb-99af-b1e0bade0d9f.png)
 
@@ -36,7 +36,7 @@ After admin/rescuer logged in, the dashboard displays all the tickets. By clicki
 
 ![image](https://user-images.githubusercontent.com/56874374/123513942-479c6a80-d690-11eb-9d1a-83773e6f7df7.png)
 
-Admin can also login. Admin has the privilege to view the tickets in detail, status of the tickets and to add another Admins/Rescuer. After logging in, Dashboard is displayed. Dashboard contains same information as the Dashboard of Rescuers access page, but it contains all the types of tickets (Open, Closed and InProgress).
+Admin has the privilege to view the tickets in detail, status of the tickets and to add another Admins/Rescuer. After logging in, Dashboard is displayed. Dashboard contains same information as the Dashboard of Rescuers access page, but it contains all the types of tickets (Open, Closed and InProgress).
 
 ![image](https://user-images.githubusercontent.com/56874374/123513969-6995ed00-d690-11eb-90f6-fa9becc8b6aa.png)
 
